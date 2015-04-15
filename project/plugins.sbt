@@ -18,3 +18,5 @@ addSbtPlugin("com.typesafe.sbt" % "sbt-digest" % "1.0.0")
 addSbtPlugin("com.typesafe.sbt" % "sbt-mocha" % "1.0.0")
 
 addSbtPlugin("com.jamesward" %% "play-auto-refresh" % "0.0.11")
+
+addSbtPlugin("com.github.ddispaltro" % "sbt-reactjs" % "0.5.0")
